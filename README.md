@@ -109,7 +109,7 @@ The field of study aimed at enabling machines with this ability is called comput
 ## Code/Body
 
  ```sh
-   root=Tk()
+root=Tk()
 root.title('𝕴𝖒𝖆𝖌𝖊 𝖈𝖑𝖆𝖘𝖘𝖎𝖋𝖎𝖊𝖗')
 root.geometry("720x720+10+20")
 lbl=Label(root, text="𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝕴𝖒𝖆𝖌𝖊 𝖈𝖑𝖆𝖘𝖘𝖎𝖋𝖎𝖊𝖗", fg='red',font=32)
